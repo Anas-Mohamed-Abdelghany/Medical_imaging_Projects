@@ -16,7 +16,7 @@
 - AI-powered diagnostic assistant
 - 96% accuracy in medical image analysis
 - Advanced CNN machine learning architecture
-![WhatsApp Image 2024-12-20 at 02 31 23_258a8f5a](https://github.com/user-attachments/assets/ed57b89b-20b0-44b0-ade9-045cf3d30579)
+![Screenshot_20250103_001758_WhatsApp](https://github.com/user-attachments/assets/c2f8524c-7f8d-43ff-ada6-c5f070c30a89)
 
 #### 3. ⚽ AI Soccer Analyzer
 - Real-time player tracking system
@@ -76,3 +76,15 @@
 ---
 
 **Revolutionizing Healthcare, One Pixel at a Time** 🩺🌟
+
+## 🤝 Our Team
+- Anas Mohamed
+- Ziad Osama
+- Hassan Badawy
+- Nada Mostafa
+- Saga Sadek
+
+## 📞 Contact Information
+
+- **Email:** anas.bayoumi05@eng-st.cu.edu.eg
+- 🔗 LinkedIn: (https://www.linkedin.com/in/anas-mohamed-716959313/)
