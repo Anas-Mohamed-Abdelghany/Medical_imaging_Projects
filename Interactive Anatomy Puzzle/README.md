@@ -5,7 +5,6 @@
 Educational 3D puzzle combining medical learning with interactive gaming.
 
 ## 🌟 Features
-[Show GIFs/screenshots of:]
 - Organ selection interface
 - Puzzle piece manipulation
 - Assembly process
