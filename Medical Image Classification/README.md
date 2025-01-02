@@ -23,6 +23,7 @@ AI-powered medical image classifier with 96% accuracy.
 
 ## 💻 Interface Demo
 ![WhatsApp Image 2024-12-20 at 02 31 24_c31758b5](https://github.com/user-attachments/assets/e6a16225-59e8-4513-b398-9dd27b17d4cd)
+![Screenshot_20250103_001758_WhatsApp](https://github.com/user-attachments/assets/c2f8524c-7f8d-43ff-ada6-c5f070c30a89)
 - Upload interface
 - Classification process
 - Results display
