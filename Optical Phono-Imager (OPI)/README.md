@@ -1,4 +1,4 @@
-# 🌈 Optical Phono-Imager (OPI) 🔬
+# 🔬 Optical Phono-Imager (OPI) 
 
 ## 🎯 Project Overview
 Revolutionizing Medical Imaging by Transcending Traditional Light Penetration Limitations
