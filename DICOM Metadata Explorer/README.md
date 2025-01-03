@@ -5,6 +5,7 @@
 Comprehensive DICOM file viewer and metadata management system.
 
 ## 🌟 Features Showcase
+![WhatsApp Image 2025-01-03 at 14 41 47_6973650a](https://github.com/user-attachments/assets/63b377b5-9295-46b0-abc0-13b5d0478eba)
 
 - Metadata grouping
 - Search functionality
